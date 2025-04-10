@@ -1,9 +1,8 @@
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vin-doong&show_icons=true&theme=default" alt="Vin-doong's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin-doong&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vin-doong&show_icons=true&theme=dark" alt="Vin-doong's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin-doong&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
