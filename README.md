@@ -11,13 +11,42 @@
 ## 💡 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" /></a>&nbsp;
+  <!-- Languages -->
+  <strong>Language</strong><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <br><br>
+
+  <!-- Backend Frameworks & Tools -->
+  <strong>Backend & Frameworks</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-8C8C8C?style=flat-square&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <br><br>
+
+  <!-- API & Integration -->
+  <strong>API & Integration</strong><br>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenWeather-FF7E00?style=flat-square&logo=openweathermap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black" />
+  <br><br>
+
+  <!-- DevOps & Tools -->
+  <strong>DevOps & Tools</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <br><br>
+
+  <!-- IoT & Networking -->
+  <strong>IoT & Networking</strong><br>
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP/IP-1572B6?style=flat-square&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-4A154B?style=flat-square&logo=raspberry-pi&logoColor=white" />
 </p>
 
 ---
@@ -31,24 +60,15 @@
 
 ---
 
-## 📝 Recent Projects
+## 🗂️ 주요 프로젝트
 
-- 💊 [건강기능식품 추천 서비스 (SuppleIT)](https://github.com/Vin-doong/suppleit_docker_final)  
-  Docker 기반 풀스택 프로젝트, 네이버 쇼핑 연동 API 및 공공데이터 API 활용  
-  [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/suppleit_docker_final/blob/main/Supple-It.pdf)
-  
-- 🎵 [QUAKKA-MUZIP](https://github.com/Vin-doong/QUAKKA-MUZIP/tree/main)  
-  Spotify API 기반 음악 추천 서비스, OpenWeather API,  사용자 맞춤형 음악 검색 기능 구현  
-  [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/QUAKKA-MUZIP/blob/main/QUAKKA-MUZIP.pdf)
-
-- 🐠 [스마트 어항 (Smart Fishbowl)](https://github.com/Vin-doong/smartfishbowl)  
-  어항 관리 자동화 시스템 (수위/조도/온습도/탁도 센서 기반), Raspberry Pi & App Inventor 기반 IoT, 3D 모델링  
-  [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/smartfishbowl/blob/main/14%EC%A1%B0_%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%96%B4%ED%95%AD_%EC%9E%91%ED%92%88%EA%B5%AC%ED%98%84_%EC%B5%9C%EC%A2%85.pdf)
-
-- 🌐 OAuth2 소셜 로그인 구현 (Google, Kakao, Naver)  
-  Spring Security, JWT 기반 인증 처리 및 OAuth2 로그인 기능 구현
-
-- 🐳 Docker 기반 풀스택 프로젝트 배포
+| 구분 | 프로젝트명 | 프로젝트 설명 | 사용 기술스택 |
+| :--: | :--------: | :----------- | :------------ |
+| Team | SuppleIT | 건강기능식품 추천 서비스, Docker 기반 풀스택 개발 및 API 연동 | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> |
+| Team | QUAKKA-MUZIP | Spotify API 기반 음악 추천 서비스, OpenWeather API 활용 | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-8C8C8C?style=flat-square&logo=ejs&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/OpenWeather-FF7E00?style=flat-square&logo=openweathermap&logoColor=white"/> |
+| Team | Smart Fishbowl | IoT 스마트 어항 관리 시스템, 센서 데이터 활용 및 앱 연동 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/TCP/IP-1572B6?style=flat-square&logo=w3c&logoColor=white"/> <img src="https://img.shields.io/badge/App Inventor-FF6F00?style=flat-square&logo=appinventor&logoColor=white"/> |
+| Personal | OAuth2 Login | Google, Kakao, Naver 소셜 로그인 구현 | <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> |
+| Personal | Docker Deploy | Docker를 활용한 풀스택 프로젝트 배포 | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> |
 
 ---
 
