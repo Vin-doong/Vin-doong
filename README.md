@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
@@ -32,7 +31,6 @@
 
 ## 📝 Recent Projects
 
-- 🚀 **Smart 투자 분석 시스템**  
 - 💊 **건강기능식품 추천 서비스**
 - 🐳 **Docker 기반 풀스택 프로젝트 배포**
 - 🌐 **OAuth2 소셜 로그인 구현 (Google, Kakao, Naver)**
