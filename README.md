@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin-doong&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
----
+
 
 ## 🗂️ 주요 프로젝트
 
@@ -17,18 +17,3 @@
 | Personal | OAuth2 Login | Google, Kakao, Naver 소셜 로그인 구현 | <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> |
 | Personal | Docker Deploy | Docker를 활용한 풀스택 프로젝트 배포 | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> |
 
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:car9506@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  감사합니다! 🙌
-</p>
