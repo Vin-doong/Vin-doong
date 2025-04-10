@@ -37,7 +37,7 @@
   Docker 기반 풀스택 프로젝트, 네이버 쇼핑 연동 API 및 공공데이터 API 활용  
   [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/suppleit_docker_final/blob/main/Supple-It.pdf)
   
-  - 🎵 [QUAKKA-MUZIP](https://github.com/Vin-doong/QUAKKA-MUZIP/tree/main)  
+- 🎵 [QUAKKA-MUZIP](https://github.com/Vin-doong/QUAKKA-MUZIP/tree/main)  
   Spotify API 기반 음악 추천 서비스, Flask & REST API 사용, 사용자 맞춤형 음악 검색 기능 구현
   [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/QUAKKA-MUZIP/blob/main/QUAKKA-MUZIP.pdf)
 
