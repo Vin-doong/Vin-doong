@@ -33,9 +33,12 @@
 
 ## 📝 Recent Projects
 
-- 💊 **건강기능식품 추천 서비스**(https://github.com/Vin-doong/suppleit_docker_final)
 - 🐳 **Docker 기반 풀스택 프로젝트 배포**
 - 🌐 **OAuth2 소셜 로그인 구현 (Google, Kakao, Naver)**
+- 💊 **건강기능식품 추천 서비스**(https://github.com/Vin-doong/suppleit_docker_final)
+
+- 🐠 [스마트 어항 (Smart Fishbowl)](https://github.com/Vin-doong/smartfishbowl)  
+  어항 관리 자동화 시스템 (수위/조도/온습도/탁도 센서 기반), Raspberry Pi & App Inventor 기반 IoT
 
 ---
 
