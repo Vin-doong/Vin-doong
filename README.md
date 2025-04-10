@@ -10,7 +10,7 @@
 
 ## 💡 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -33,18 +33,23 @@
 
 ## 📝 Recent Projects
 
-- 🐳 **Docker 기반 풀스택 프로젝트 배포**
-- 🌐 **OAuth2 소셜 로그인 구현 (Google, Kakao, Naver)**
-- 💊 [건강기능식품 추천 서비스(SuppleIT)](https://github.com/Vin-doong/suppleit_docker_final)
+- 💊 [건강기능식품 추천 서비스 (SuppleIT)](https://github.com/Vin-doong/suppleit_docker_final)  
+  Docker 기반 풀스택 프로젝트, 네이버 쇼핑 연동 API 및 공공데이터 API 활용
 
 - 🐠 [스마트 어항 (Smart Fishbowl)](https://github.com/Vin-doong/smartfishbowl)  
-  어항 관리 자동화 시스템 (수위/조도/온습도/탁도 센서 기반), Raspberry Pi & App Inventor 기반 IoT
+  어항 관리 자동화 시스템 (수위/조도/온습도/탁도 센서 기반), Raspberry Pi & App Inventor 기반 IoT  
+  [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/smartfishbowl/blob/main/14%EC%A1%B0_%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%96%B4%ED%95%AD_%EC%9E%91%ED%92%88%EA%B5%AC%ED%98%84_%EC%B5%9C%EC%A2%85.pdf)
+
+- 🌐 OAuth2 소셜 로그인 구현 (Google, Kakao, Naver)  
+  Spring Security, JWT 기반 인증 처리 및 OAuth2 로그인 기능 구현
+
+- 🐳 Docker 기반 풀스택 프로젝트 배포
 
 ---
 
 ## 📫 Contact
 
-<p>
+<p align="center">
   <a href="mailto:car9506@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
