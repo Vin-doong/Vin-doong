@@ -34,7 +34,7 @@
 ## 📝 Recent Projects
 
 - 💊 [건강기능식품 추천 서비스 (SuppleIT)](https://github.com/Vin-doong/suppleit_docker_final)  
-  Docker 기반 풀스택 프로젝트, 네이버 쇼핑 연동 API 및 공공데이터 API 활용
+  Docker 기반 풀스택 프로젝트, 네이버 쇼핑 연동 API 및 공공데이터 API 활용  
   [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/suppleit_docker_final/blob/main/Supple-It.pdf)
 
 - 🐠 [스마트 어항 (Smart Fishbowl)](https://github.com/Vin-doong/smartfishbowl)  
