@@ -38,11 +38,11 @@
   [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/suppleit_docker_final/blob/main/Supple-It.pdf)
   
 - 🎵 [QUAKKA-MUZIP](https://github.com/Vin-doong/QUAKKA-MUZIP/tree/main)  
-  Spotify API 기반 음악 추천 서비스, Flask & REST API 사용, 사용자 맞춤형 음악 검색 기능 구현
+  Spotify API 기반 음악 추천 서비스, OpenWeather API,  사용자 맞춤형 음악 검색 기능 구현  
   [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/QUAKKA-MUZIP/blob/main/QUAKKA-MUZIP.pdf)
 
 - 🐠 [스마트 어항 (Smart Fishbowl)](https://github.com/Vin-doong/smartfishbowl)  
-  어항 관리 자동화 시스템 (수위/조도/온습도/탁도 센서 기반), Raspberry Pi & App Inventor 기반 IoT  
+  어항 관리 자동화 시스템 (수위/조도/온습도/탁도 센서 기반), Raspberry Pi & App Inventor 기반 IoT, 3D 모델링  
   [📄 프로젝트 발표 PDF](https://github.com/Vin-doong/smartfishbowl/blob/main/14%EC%A1%B0_%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%96%B4%ED%95%AD_%EC%9E%91%ED%92%88%EA%B5%AC%ED%98%84_%EC%B5%9C%EC%A2%85.pdf)
 
 - 🌐 OAuth2 소셜 로그인 구현 (Google, Kakao, Naver)  
