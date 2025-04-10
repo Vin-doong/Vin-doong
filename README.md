@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vin-doong</h1>
+<h1 align="center">안녕하세요 오늘 하루도 잘 보냅시다.</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/Vin-doong?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Vin-doong?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-<p align="center">백엔드 & 풀스택 개발자를 지향하며 성장하는 개발자 Vin-doong 입니다.</p>
+<p align="center">백엔드 & 풀스택 개발자를 지향하며 성장하는 개발자 입니다.</p>
 
 ---
 
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Language" />
 </p>
 
 ---
@@ -31,7 +33,7 @@
 
 ## 📝 Recent Projects
 
-- 💊 **건강기능식품 추천 서비스**
+- 💊 **건강기능식품 추천 서비스**(https://github.com/Vin-doong/suppleit_docker_final)
 - 🐳 **Docker 기반 풀스택 프로젝트 배포**
 - 🌐 **OAuth2 소셜 로그인 구현 (Google, Kakao, Naver)**
 
@@ -40,11 +42,8 @@
 ## 📫 Contact
 
 <p>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:car9506@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://suppleit.shop">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
