@@ -1,9 +1,7 @@
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vin-doong&theme=default" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vin-doong&theme=github-light" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vin-doong&show_icons=true&theme=default" alt="Vin-doong's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin-doong&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
 ## 🗂️ 주요 프로젝트
