@@ -1,7 +1,7 @@
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vin-doong&show_icons=true&theme=default" alt="Vin-doong's GitHub stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vin-doong&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Vin-doong&show_icons=true&theme=default" alt="Vin-doong's GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Vin-doong&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
 
