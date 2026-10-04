@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 매일 00:00 (KST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 공개 정보만 읽는 토큰(repo 권한 없음) → 회사·비공개 레포 내용은 구조적으로 읽을 수 없음
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Vin-doong
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: Asia/Seoul
+          # 레포 이름을 나열하는 섹션·플러그인(activity, notable, lines 등)은 켜지 않음
+          base: header, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          # 첫 결과는 바로 반영하지 않고 PR로 받아서 확인
+          output_action: pull-request
