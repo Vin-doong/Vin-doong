@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   github-metrics:
@@ -27,5 +26,4 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_limit: 8
-          # 첫 결과는 바로 반영하지 않고 PR로 받아서 확인
-          output_action: pull-request
+          output_action: commit

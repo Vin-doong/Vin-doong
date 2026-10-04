@@ -30,7 +30,5 @@ MES(제조실행시스템) 회사에서 고객사별 MES를 구축하는 **풀�
 | Team | [Smart Fishbowl](https://github.com/Vin-doong/smartfishbowl) | IoT 스마트 어항 관리 시스템, 센서 데이터 활용 및 앱 연동 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/TCP/IP-1572B6?style=flat-square&logo=w3c&logoColor=white"/> <img src="https://img.shields.io/badge/App Inventor-FF6F00?style=flat-square&logo=appinventor&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> |
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Vin-doong&show_icons=true&theme=default" alt="Vin-doong's GitHub stats" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Vin-doong&layout=compact&theme=default" alt="Top Langs" />
-</p>
+
+<p align="center"><img src="github-metrics.svg" alt="Vin-doong GitHub metrics" /></p>
